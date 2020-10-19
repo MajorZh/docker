@@ -1,7 +1,7 @@
 on:
   push:
     paths:
-      - "ReleaseTag"
+      - "ReleaseTag" 
 
 name: docker push
 jobs:
